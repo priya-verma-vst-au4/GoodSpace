@@ -1,0 +1,62 @@
+.navbar navbar-expand-lg navbar-light{
+    margin-top: -5px;
+}
+
+.navbar-brand{
+    margin-top: -5px;
+    margin-left: -70px;
+}
+
+.navbars-brand{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.navbar{
+    border: solid #c7c3c3;
+}
+
+.p{
+    color: black;
+    font-size: smaller
+}
+.p{
+    color: black;
+    font-size: smaller;
+    margin-left: -12px;
+}
+.p1{
+    color: black;
+    font-size: smaller
+}
+.p2{
+    color: black;
+    font-size: smaller;
+    margin-left: -25px;
+}
+.p3{
+    color: black;
+    font-size: smaller;
+    margin-left: -20px;
+}
+.p4{
+    color: black;
+    font-size: smaller;
+    margin-left: -12px;
+}
+
+.image2{
+        border-radius: 50px;
+        margin-left: -30px;
+        margin-top: -20px;
+        margin-right: 50px;
+}
+
+.container-fluid{
+    margin-bottom: -15px;
+}
+.d-flex{
+    margin-top: -10px;
+    margin-left: -100px;
+}

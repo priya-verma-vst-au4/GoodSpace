@@ -1,0 +1,177 @@
+
+.card{
+    margin-left: -65px;
+    width: 265;
+    height: 150;
+    background: white;
+    border-radius: 6px;
+
+}
+
+
+
+.image-container {
+    margin-top: -35px;
+    margin-left: -16px;
+    width: 100px;
+    background: white;
+    height: 100px;
+    border-radius: 50%;
+    padding: 5px;
+    transform: translate(95px,45px);
+}
+
+.image1{
+    border-radius: 50px;
+    margin-top: 6px;
+}
+.lower-container2{
+    width: 255px;
+    margin-left: -1px
+}
+
+
+.list1{
+    color: #5fec5f;
+    margin-left: 5px;
+    margin-top: -1px;
+}
+
+.Available{
+    color: black;
+}
+
+.name1{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: x-large;
+    color: #4aa7e9;
+}
+
+.para{
+    margin-left: 60px;
+}
+
+.language{
+    display: flex;
+    flex-direction: row;
+    margin-left: 6px;
+}
+
+.skills{
+    margin-top: -8px;
+}
+.python1{
+    border: 1px solid;
+    margin-right: 5px;
+    margin-left: -10px;
+    font-size: smaller;
+    border-radius: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #d2e8f8;
+    border-color: #d2e8f8;
+}
+
+.javaScript1{
+    border: 1px solid;
+    margin-right: 10px;
+    margin-left: 0px;
+    border-radius: 30px;
+    padding-left: 12px;
+    padding-right: 20px;
+    padding-top: 5px;
+    background-color: #d2e8f8;
+    border-color: #d2e8f8;
+    font-size: smaller;
+}
+
+.Java1{
+    border: 1px solid;
+    margin-right: 15px;
+    margin-left: -5px;
+    border-radius: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    background-color: #d2e8f8;
+    border-color: #d2e8f8;
+    font-size: smaller;
+}
+
+.divider{
+    height: 1px;
+    width: 250px;
+    margin-left: -10px;
+    color: #80808073;
+}
+.typeofworks{
+    font-weight: 500;
+    margin-right: 100px;
+}
+.works{
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+.compensations{
+    font-weight: 500;
+    margin-right: 95px;
+
+}
+
+.premium{
+    width: 260px;
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 12px;
+    margin-left: -65px;
+    border: solid;
+    border-color: #ece3e38c;
+    margin-top: 20px;
+
+}
+
+.premium_logo{
+    margin-left: 4px;
+    margin-top: -3px;
+}
+
+.available_immediately{
+    width: 265px;
+    height: 50px;
+    padding-left: 25px;
+    padding-top: 12px;
+    margin-left: -68px;
+    border: solid;
+    border-color: #ece3e38c;
+    margin-top: 10px;
+}
+
+
+.permonth{
+    font-size: 13px;
+    margin: 3px;
+}
+.perhour{
+    font-size: 13px;
+    margin: 3px;
+}
+
+.rupee{
+    margin-left: 110px;
+}
+
+.rupees{
+    margin-left: 118px;
+}
+
+.available_logo{
+    margin-right: 10px;
+}
+
+.premium_logo1{
+    margin-right: 10px;
+}

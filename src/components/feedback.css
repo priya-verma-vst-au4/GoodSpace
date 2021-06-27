@@ -1,0 +1,63 @@
+ .navbars{
+    width: 594px;
+    height: 70px;
+    margin-left: 0px;
+    background-color: #daebf2;
+    
+}
+
+.container{
+    padding-left: 104px;
+    padding-top: 20px;
+}
+.Binay{
+    color: #408bfc;
+}
+
+.confidential{
+    color: #408bfc;
+}
+
+.feedback_body{
+    margin-top: 110px;
+    display: flex;
+}
+
+.your_feedback{
+    margin-left: 49px;
+    margin-top: 15px;
+    color: #bdb9b9;
+    width: 350px;
+}
+
+.give_feedback{
+    margin-top: 2px;
+    margin-left: 30px;
+}
+
+.btn{
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 1px solid #4aa7e9;
+    background-color: #3ba1ea;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+}
+
+.feedback_pic{
+    margin-top: 70px;
+    margin-left: 140px;
+    height: 150px
+}
+
+.feedback_image{
+    width: 350px;
+    height: 400px;
+    margin-top: -55px;
+    margin-left: -80px;
+}
+
+.feedback_confi{
+    margin-left: 50px;
+}
